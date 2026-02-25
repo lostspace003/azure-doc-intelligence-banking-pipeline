@@ -327,60 +327,12 @@ Every certification below links to its official Microsoft Learn page — click t
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" valign="top" width="25%">
-
-**Agentic AI & Copilot**
-
-[AI-3026 — Develop AI Agents](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/)
-
-[AI-3016 — Custom Copilots](https://learn.microsoft.com/en-us/credentials/applied-skills/build-custom-copilots-with-microsoft-copilot-studio/)
-
-[AZ-2005 — Semantic Kernel](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/)
-
-[AI-3018 — Copilot Fundamentals](https://learn.microsoft.com/en-us/training/)
-
-</td>
-<td align="center" valign="top" width="25%">
-
-**Azure AI & GenAI**
-
-[AI-050 — Generative AI Solutions](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/)
-
-[AI-3002 — Document Intelligence](https://learn.microsoft.com/en-us/credentials/applied-skills/create-intelligent-document-solution-azure-ai-document-intelligence/)
-
-[AI-3003 — NLP](https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/)
-
-[AI-3004 — AI Vision](https://learn.microsoft.com/en-us/credentials/applied-skills/create-computer-vision-solution-azure-ai/)
-
-</td>
-<td align="center" valign="top" width="25%">
-
-**Machine Learning**
-
-[DP-3007 — Azure ML](https://learn.microsoft.com/en-us/credentials/applied-skills/train-and-deploy-a-machine-learning-model/)
-
-[DP-3014 — Databricks ML](https://learn.microsoft.com/en-us/credentials/applied-skills/build-machine-learning-solution-azure-databricks/)
-
-Data Science with Python
-
-</td>
-<td align="center" valign="top" width="25%">
-
-**Power Platform**
-
-[PL-100 — App Maker](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-app-maker/)
-
-[PL-200 — Functional Consultant](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/)
-
-[PL-400 — Developer](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-developer-associate/)
-
-Copilot Studio Hands-on
-
-</td>
-</tr>
-</table>
+| Category | Specializations |
+|:---------|:---------------|
+| **Agentic AI & Copilot** | [AI-3026 — Develop AI Agents](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/) · [AI-3016 — Custom Copilots](https://learn.microsoft.com/en-us/credentials/applied-skills/build-custom-copilots-with-microsoft-copilot-studio/) · [AZ-2005 — Semantic Kernel](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/) · [AI-3018 — Copilot Fundamentals](https://learn.microsoft.com/en-us/training/) |
+| **Azure AI & GenAI** | [AI-050 — Generative AI Solutions](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/) · [AI-3002 — Document Intelligence](https://learn.microsoft.com/en-us/credentials/applied-skills/create-intelligent-document-solution-azure-ai-document-intelligence/) · [AI-3003 — NLP](https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/) · [AI-3004 — AI Vision](https://learn.microsoft.com/en-us/credentials/applied-skills/create-computer-vision-solution-azure-ai/) |
+| **Machine Learning** | [DP-3007 — Azure ML](https://learn.microsoft.com/en-us/credentials/applied-skills/train-and-deploy-a-machine-learning-model/) · [DP-3014 — Databricks ML](https://learn.microsoft.com/en-us/credentials/applied-skills/build-machine-learning-solution-azure-databricks/) · Data Science with Python |
+| **Power Platform** | [PL-100 — App Maker](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-app-maker/) · [PL-200 — Functional Consultant](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/) · [PL-400 — Developer](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-developer-associate/) · Copilot Studio Hands-on |
 
 </div>
 
@@ -500,7 +452,7 @@ AI adoption strategy & change management, Power Platform automation, M365 Copilo
 <br/><br/>
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=lostspace003&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=15" alt="Trophies" width="80%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lostspace003&theme=darkhub&no-frame=true&column=6&margin-w=15&margin-h=15" alt="Trophies" width="85%"/>
 
 </div>
 
