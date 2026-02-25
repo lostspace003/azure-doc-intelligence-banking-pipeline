@@ -606,9 +606,9 @@ Open to **AI project collaborations, speaking at events, or designing enterprise
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jalal-khan-b8319955/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:lostspace003@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>&nbsp;
-<a href="https://github.com/lostspace003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/jalal-khan-b8319955/"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=083B73" height="32" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:lostspace003@outlook.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-0078D4?style=flat&logo=microsoftoutlook&logoColor=white&labelColor=004578" height="32" alt="Email"/></a>&nbsp;&nbsp;
+<a href="https://github.com/lostspace003"><img src="https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=flat&logo=github&logoColor=white&labelColor=0D1117" height="32" alt="GitHub"/></a>
 
 </div>
 
