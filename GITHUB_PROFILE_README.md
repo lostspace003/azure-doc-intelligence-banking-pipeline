@@ -6,7 +6,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jalal-khan-21898135)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalal-khan-b8319955/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lostspace003)
 [![Email](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lostspace003@outlook.com)
 [![MCT](https://img.shields.io/badge/MCT_since_2022-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)](#-microsoft-certifications)
@@ -476,7 +476,7 @@ I am always open to collaborating on AI projects, speaking at events, or designi
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jalal-khan-21898135)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalal-khan-b8319955/)
 [![Email](https://img.shields.io/badge/Email-lostspace003@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:lostspace003@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-lostspace003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lostspace003)
 
