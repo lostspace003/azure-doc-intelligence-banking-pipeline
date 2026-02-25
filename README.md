@@ -85,6 +85,52 @@ Trained teams at **Microsoft, IBM, EY, Boeing, Siemens, Saudi Aramco**, and 30+ 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                            WHAT I DO                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## What I Do
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<details open>
+<summary><b>AI Solution Architecture</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-5C2D91?style=flat-square"/>
+<br/><br/>
+<div align="justify">Azure OpenAI & GPT-4o integration, RAG pipelines with vector search, Document Intelligence for BFSI, Computer Vision & OCR systems, MCP server development.</div>
+</details>
+
+</td>
+<td width="33%" valign="top">
+
+<details open>
+<summary><b>Corporate AI Training</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/80+_Programs-5C2D91?style=flat-square&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/6+_Countries-00B4D8?style=flat-square"/>
+<br/><br/>
+<div align="justify">Executive bootcamps for C-suite leadership, university programs, certification prep (AI-102, DP-100, PL-300, AZ-204), hands-on labs with Azure OpenAI, Copilot Studio, Power Platform.</div>
+</details>
+
+</td>
+<td width="33%" valign="top">
+
+<details open>
+<summary><b>Digital Transformation</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/Power_Platform-107C10?style=flat-square&logo=powerapps&logoColor=white"/> <img src="https://img.shields.io/badge/DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<br/><br/>
+<div align="justify">AI adoption strategy & change management, Power Platform automation, M365 Copilot enablement, CI/CD with Azure DevOps & GitHub Actions, Docker containerization.</div>
+</details>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                            TECH STACK                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -393,60 +439,6 @@ Every certification below links to its official Microsoft Learn page — click t
 
 </td>
 
-</tr>
-</table>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                            WHAT I DO                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## What I Do
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%" valign="top">
-
-<img src="https://img.shields.io/badge/AI_Solution-Architecture-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI Solutions"/>
-
-<br/><br/>
-
-<div align="justify">
-
-Azure OpenAI & GPT-4o integration, RAG pipelines with vector search, Document Intelligence for BFSI, Computer Vision & OCR systems, MCP server development.
-
-</div>
-
-</td>
-<td align="center" width="33%" valign="top">
-
-<img src="https://img.shields.io/badge/Corporate_AI-Training-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Training"/>
-
-<br/><br/>
-
-<div align="justify">
-
-80+ programs across 6+ countries, executive bootcamps for C-suite leadership, university programs, certification prep (AI-102, DP-100, PL-300, AZ-204), hands-on labs with Azure OpenAI, Copilot Studio, Power Platform.
-
-</div>
-
-</td>
-<td align="center" width="33%" valign="top">
-
-<img src="https://img.shields.io/badge/Digital-Transformation-00B4D8?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Transformation"/>
-
-<br/><br/>
-
-<div align="justify">
-
-AI adoption strategy & change management, Power Platform automation, M365 Copilot enablement, CI/CD with Azure DevOps & GitHub Actions, Docker containerization.
-
-</div>
-
-</td>
 </tr>
 </table>
 </div>
