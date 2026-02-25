@@ -39,9 +39,7 @@ An **AI Enabler and Integrator** — leveraging AI to **build and deliver produc
 
 </div>
 
-<p align="center">
 <code>Saudi Arabia</code> &nbsp;·&nbsp; <code>UAE</code> &nbsp;·&nbsp; <code>Bahrain</code> &nbsp;·&nbsp; <code>Australia</code> &nbsp;·&nbsp; <code>New Zealand</code> &nbsp;·&nbsp; <code>United Kingdom</code>
-</p>
 
 ---
 
@@ -49,7 +47,7 @@ An **AI Enabler and Integrator** — leveraging AI to **build and deliver produc
 <!--                          IMPACT AT A GLANCE                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">Impact at a Glance</h2>
+## Impact at a Glance
 
 <div align="center">
 <table>
@@ -90,7 +88,7 @@ Trained teams at **Microsoft, IBM, EY, Boeing, Siemens, Saudi Aramco**, and 30+ 
 <!--                            TECH STACK                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">Tech Stack</h2>
+## Tech Stack
 
 <div align="center">
 
@@ -155,7 +153,7 @@ Trained teams at **Microsoft, IBM, EY, Boeing, Siemens, Saudi Aramco**, and 30+ 
 <!--                         FEATURED PROJECTS                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">Featured Projects</h2>
+## Featured Projects
 
 ### Banking & BFSI AI Solutions
 
@@ -297,7 +295,7 @@ Trained teams at **Microsoft, IBM, EY, Boeing, Siemens, Saudi Aramco**, and 30+ 
 <!--                       MICROSOFT CERTIFICATIONS                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">Microsoft Certifications</h2>
+## Microsoft Certifications
 
 <div align="justify">
 
@@ -339,7 +337,7 @@ Every certification below links to its official Microsoft Learn page — click t
 <!-- ─── LEFT COLUMN: Applied Skills ─── -->
 <td valign="top" width="50%">
 
-<h3 align="center">Applied Skills & Specializations (14+)</h3>
+<h3>Applied Skills & Specializations (14+)</h3>
 
 <b>Agentic AI & Copilot</b><br/>
 <a href="https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/"><img src="https://img.shields.io/badge/AI--3026-Develop_AI_Agents-0078D4?style=flat-square&logo=microsoft&logoColor=white"/></a><br/>
@@ -367,7 +365,7 @@ Every certification below links to its official Microsoft Learn page — click t
 <!-- ─── RIGHT COLUMN: Highlight Engagements ─── -->
 <td valign="top" width="50%">
 
-<h3 align="center">Highlight Engagements</h3>
+<h3>Highlight Engagements</h3>
 
 <img src="https://img.shields.io/badge/MCIT_Saudi_Arabia-0078D4?style=flat-square"/>&nbsp; AI Leadership Mastery — 10-day bootcamp<br/>
 <code>50+ C-suite executives · Saudi Vision 2030</code>
@@ -405,7 +403,7 @@ Every certification below links to its official Microsoft Learn page — click t
 <!--                            WHAT I DO                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">What I Do</h2>
+## What I Do
 
 <div align="center">
 <table>
@@ -459,7 +457,7 @@ AI adoption strategy & change management, Power Platform automation, M365 Copilo
 <!--                           KEY CLIENTS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">Key Clients</h2>
+## Key Clients
 
 <div align="center">
 <table>
@@ -515,7 +513,7 @@ King Saud University · Taibah University
 <!--                          GITHUB STATS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">GitHub Analytics</h2>
+## GitHub Analytics
 
 <div align="center">
 
@@ -542,7 +540,7 @@ King Saud University · Taibah University
 <!--                          LET'S CONNECT                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">Let's Connect</h2>
+## Let's Connect
 
 <div align="justify">
 
