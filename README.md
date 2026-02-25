@@ -6,6 +6,11 @@
 <!-- ANIMATED WAVING HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0078D4,100:00B4D8&height=230&section=header&text=Jalal%20Ahmed%20Khan&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=32&desc=AI%20Enabler%20%20%7C%20%20Enterprise%20Integrator%20%20%7C%20%20Microsoft%20Certified%20Trainer&descSize=16&descAlignY=56&descColor=FFFFFFCC" width="100%" alt="Header"/>
 
+<!-- PROFILE VIEWS — TOP RIGHT -->
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=lostspace003&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
+
 <!-- ANIMATED TYPING SVG -->
 <div align="center">
 
@@ -18,6 +23,10 @@
 <a href="https://github.com/lostspace003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
 <a href="mailto:lostspace003@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
 
+<br/><br/>
+
+*"Not from a developer background — yet leveraging AI to build production-ready solutions for enterprise clients."*
+
 </div>
 
 <br/>
@@ -26,7 +35,7 @@
 
 <div align="justify">
 
-Not from a traditional developer background — yet leveraging AI to **build and deliver production-ready PoCs and enterprise applications** for clients worldwide. Bridging the gap between **C-suite vision and technical execution**: designing AI roadmaps, leading PoC-to-Pilot delivery, and enabling organization-wide AI adoption across the Microsoft AI stack.
+An **AI Enabler and Integrator** — leveraging AI to **build and deliver production-ready PoCs and enterprise applications** for clients worldwide. Bridging the gap between **C-suite vision and technical execution**: designing AI roadmaps, leading PoC-to-Pilot delivery, and enabling organization-wide AI adoption across the Microsoft AI stack.
 
 </div>
 
@@ -325,15 +334,62 @@ Every certification below links to its official Microsoft Learn page — click t
 
 <h2 align="center">Applied Skills & Specializations (14+)</h2>
 
+<br/>
+
 <div align="center">
+<table>
+<tr>
+<td align="center" valign="top" width="50%">
 
-| Category | Specializations |
-|:---------|:---------------|
-| **Agentic AI & Copilot** | [AI-3026 — Develop AI Agents](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/) · [AI-3016 — Custom Copilots](https://learn.microsoft.com/en-us/credentials/applied-skills/build-custom-copilots-with-microsoft-copilot-studio/) · [AZ-2005 — Semantic Kernel](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/) · [AI-3018 — Copilot Fundamentals](https://learn.microsoft.com/en-us/training/) |
-| **Azure AI & GenAI** | [AI-050 — Generative AI Solutions](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/) · [AI-3002 — Document Intelligence](https://learn.microsoft.com/en-us/credentials/applied-skills/create-intelligent-document-solution-azure-ai-document-intelligence/) · [AI-3003 — NLP](https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/) · [AI-3004 — AI Vision](https://learn.microsoft.com/en-us/credentials/applied-skills/create-computer-vision-solution-azure-ai/) |
-| **Machine Learning** | [DP-3007 — Azure ML](https://learn.microsoft.com/en-us/credentials/applied-skills/train-and-deploy-a-machine-learning-model/) · [DP-3014 — Databricks ML](https://learn.microsoft.com/en-us/credentials/applied-skills/build-machine-learning-solution-azure-databricks/) · Data Science with Python |
-| **Power Platform** | [PL-100 — App Maker](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-app-maker/) · [PL-200 — Functional Consultant](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/) · [PL-400 — Developer](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-developer-associate/) · Copilot Studio Hands-on |
+<img src="https://img.shields.io/badge/Agentic_AI_&_Copilot-0078D4?style=for-the-badge&logoColor=white" alt="Agentic AI"/>
 
+<br/><br/>
+
+[AI-3026 — Develop AI Agents](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/)<br/>
+[AI-3016 — Custom Copilots](https://learn.microsoft.com/en-us/credentials/applied-skills/build-custom-copilots-with-microsoft-copilot-studio/)<br/>
+[AZ-2005 — Semantic Kernel](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/)<br/>
+[AI-3018 — Copilot Fundamentals](https://learn.microsoft.com/en-us/training/)
+
+</td>
+<td align="center" valign="top" width="50%">
+
+<img src="https://img.shields.io/badge/Azure_AI_&_GenAI-5C2D91?style=for-the-badge&logoColor=white" alt="Azure AI"/>
+
+<br/><br/>
+
+[AI-050 — Generative AI Solutions](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/)<br/>
+[AI-3002 — Document Intelligence](https://learn.microsoft.com/en-us/credentials/applied-skills/create-intelligent-document-solution-azure-ai-document-intelligence/)<br/>
+[AI-3003 — NLP](https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/)<br/>
+[AI-3004 — AI Vision](https://learn.microsoft.com/en-us/credentials/applied-skills/create-computer-vision-solution-azure-ai/)
+
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="50%">
+
+<img src="https://img.shields.io/badge/Machine_Learning-00B4D8?style=for-the-badge&logoColor=white" alt="ML"/>
+
+<br/><br/>
+
+[DP-3007 — Azure ML](https://learn.microsoft.com/en-us/credentials/applied-skills/train-and-deploy-a-machine-learning-model/)<br/>
+[DP-3014 — Databricks ML](https://learn.microsoft.com/en-us/credentials/applied-skills/build-machine-learning-solution-azure-databricks/)<br/>
+Data Science with Python
+
+</td>
+<td align="center" valign="top" width="50%">
+
+<img src="https://img.shields.io/badge/Power_Platform-107C10?style=for-the-badge&logoColor=white" alt="Power Platform"/>
+
+<br/><br/>
+
+[PL-100 — App Maker](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-app-maker/)<br/>
+[PL-200 — Functional Consultant](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/)<br/>
+[PL-400 — Developer](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-developer-associate/)<br/>
+Copilot Studio Hands-on
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -344,11 +400,16 @@ Every certification below links to its official Microsoft Learn page — click t
 
 <h2 align="center">What I Do</h2>
 
+<br/>
+
+<div align="center">
 <table>
 <tr>
-<td width="33%" valign="top">
+<td align="center" width="33%" valign="top">
 
-<h4 align="center">AI Solution Architecture</h4>
+<img src="https://img.shields.io/badge/AI_Solution-Architecture-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AI Solutions"/>
+
+<br/><br/>
 
 <div align="justify">
 
@@ -357,9 +418,11 @@ Azure OpenAI & GPT-4o integration, RAG pipelines with vector search, Document In
 </div>
 
 </td>
-<td width="33%" valign="top">
+<td align="center" width="33%" valign="top">
 
-<h4 align="center">Corporate AI Training</h4>
+<img src="https://img.shields.io/badge/Corporate_AI-Training-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Training"/>
+
+<br/><br/>
 
 <div align="justify">
 
@@ -368,9 +431,11 @@ Azure OpenAI & GPT-4o integration, RAG pipelines with vector search, Document In
 </div>
 
 </td>
-<td width="33%" valign="top">
+<td align="center" width="33%" valign="top">
 
-<h4 align="center">Digital Transformation</h4>
+<img src="https://img.shields.io/badge/Digital-Transformation-00B4D8?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Transformation"/>
+
+<br/><br/>
 
 <div align="justify">
 
@@ -381,6 +446,7 @@ AI adoption strategy & change management, Power Platform automation, M365 Copilo
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
@@ -390,15 +456,54 @@ AI adoption strategy & change management, Power Platform automation, M365 Copilo
 
 <h2 align="center">Key Clients</h2>
 
+<br/>
+
 <div align="center">
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
 
-| Sector | Organizations |
-|:-------|:-------------|
-| **Enterprise** | Microsoft · IBM · EY · Boeing · Siemens · Saudi Aramco · PepsiCo · Adobe · Fujitsu · Stryker · Bain & Company · Leidos |
-| **Technology** | TCS · Capgemini · Wipro · Infosys · HCL · ITC Infotech · HP India · Tech Mahindra |
-| **Banking** | HDFC Bank · ICICI Bank · Axis Bank · Tengizchevroil |
-| **Government & Education** | MCIT Saudi Arabia · Govt. of Bahrain · Bank of Tanzania · King Saud University · Taibah University |
+<img src="https://img.shields.io/badge/Enterprise-0078D4?style=for-the-badge" alt="Enterprise"/>
 
+<br/><br/>
+
+Microsoft · IBM · EY · Boeing · Siemens · Saudi Aramco<br/>
+PepsiCo · Adobe · Fujitsu · Stryker · Bain & Company · Leidos
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/Technology-00B4D8?style=for-the-badge" alt="Technology"/>
+
+<br/><br/>
+
+TCS · Capgemini · Wipro · Infosys<br/>
+HCL · ITC Infotech · HP India · Tech Mahindra
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/Banking_&_Energy-107C10?style=for-the-badge" alt="Banking"/>
+
+<br/><br/>
+
+HDFC Bank · ICICI Bank · Axis Bank · Tengizchevroil
+
+</td>
+<td align="center" width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/Government_&_Education-5C2D91?style=for-the-badge" alt="Gov & Edu"/>
+
+<br/><br/>
+
+MCIT Saudi Arabia · Govt. of Bahrain · Bank of Tanzania<br/>
+King Saud University · Taibah University
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -409,19 +514,56 @@ AI adoption strategy & change management, Power Platform automation, M365 Copilo
 
 <h2 align="center">Highlight Engagements</h2>
 
+<br/>
+
 <div align="center">
-
-| Client | Program | Impact |
-|:-------|:--------|:-------|
-| **MCIT Saudi Arabia** | AI Leadership Mastery — 10-day executive bootcamp | 50+ C-suite executives, aligned with Saudi Vision 2030 |
-| **Bank of Tanzania** | AI Agents Implementation — 10-day program | Multi-agent orchestration, MCP integrations, production chatbot PoC |
-| **Government of Bahrain** | GenAI Enablement Workshops | Rapid PoCs for automation and insights |
-| **King Saud University** | Microsoft AI for Smart Cities (Professors) | Custom AI modules with live Power BI dashboards |
-| **Taibah University** | Microsoft AI for Smart Cities (Students) | AI-102, PL-300, Copilot, and smart city applications |
-| **Tech Mahindra** | RFP Automation PoC | 60% reduction in response time using Azure OpenAI |
-| **Saudi Aramco** | Enterprise AI Enablement | AI strategy workshops & Azure OpenAI integration |
-| **Boeing** | Technical Training | Advanced Azure & DevOps training programs |
-
+<table>
+<tr>
+<th align="left" width="22%">Client</th>
+<th align="left" width="40%">Program</th>
+<th align="left" width="38%">Impact</th>
+</tr>
+<tr>
+<td><b>MCIT Saudi Arabia</b></td>
+<td>AI Leadership Mastery — 10-day executive bootcamp</td>
+<td>50+ C-suite executives, aligned with Saudi Vision 2030</td>
+</tr>
+<tr>
+<td><b>Bank of Tanzania</b></td>
+<td>AI Agents Implementation — 10-day program</td>
+<td>Multi-agent orchestration, MCP integrations, production chatbot PoC</td>
+</tr>
+<tr>
+<td><b>Government of Bahrain</b></td>
+<td>GenAI Enablement Workshops</td>
+<td>Rapid PoCs for automation and insights</td>
+</tr>
+<tr>
+<td><b>King Saud University</b></td>
+<td>Microsoft AI for Smart Cities (Professors)</td>
+<td>Custom AI modules with live Power BI dashboards</td>
+</tr>
+<tr>
+<td><b>Taibah University</b></td>
+<td>Microsoft AI for Smart Cities (Students)</td>
+<td>AI-102, PL-300, Copilot, and smart city applications</td>
+</tr>
+<tr>
+<td><b>Tech Mahindra</b></td>
+<td>RFP Automation PoC</td>
+<td>60% reduction in response time using Azure OpenAI</td>
+</tr>
+<tr>
+<td><b>Saudi Aramco</b></td>
+<td>Enterprise AI Enablement</td>
+<td>AI strategy workshops & Azure OpenAI integration</td>
+</tr>
+<tr>
+<td><b>Boeing</b></td>
+<td>Technical Training</td>
+<td>Advanced Azure & DevOps training programs</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -432,29 +574,19 @@ AI adoption strategy & change management, Power Platform automation, M365 Copilo
 
 <h2 align="center">GitHub Analytics</h2>
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lostspace003&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="170" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostspace003&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages"/>
+</p>
 
-<!-- Stats + Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api?username=lostspace003&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00B4D8&icon_color=0078D4&text_color=c9d1d9&ring_color=00B4D8&rank_icon=github" height="175" alt="GitHub Stats"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostspace003&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00B4D8&text_color=c9d1d9&langs_count=8" height="175" alt="Top Languages"/>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=lostspace003&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" width="520"/>
+</p>
 
-<br/><br/>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=lostspace003&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=0078D4&ring=00B4D8&fire=E97627&currStreakLabel=00B4D8&sideLabels=00B4D8&dates=c9d1d9&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" width="520"/>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lostspace003&theme=github-dark&hide_border=true&bg_color=0d1117&color=00B4D8&line=0078D4&point=FFFFFF&area=true&area_color=0078D4" width="95%" alt="Activity Graph"/>
-
-<br/><br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=lostspace003&theme=darkhub&no-frame=true&column=6&margin-w=15&margin-h=15" alt="Trophies" width="85%"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lostspace003&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&area_color=58a6ff" width="95%" alt="Activity Graph"/>
+</p>
 
 ---
 
@@ -477,14 +609,6 @@ Open to **AI project collaborations, speaking at events, or designing enterprise
 <a href="https://www.linkedin.com/in/jalal-khan-b8319955/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
 <a href="mailto:lostspace003@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>&nbsp;
 <a href="https://github.com/lostspace003"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br/><br/>
-
-*"Not from a developer background — yet leveraging AI to build production-ready solutions for enterprise clients."*
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=lostspace003&color=00B4D8&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
