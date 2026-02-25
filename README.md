@@ -329,49 +329,72 @@ Every certification below links to its official Microsoft Learn page — click t
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                   APPLIED SKILLS & SPECIALIZATIONS                    -->
+<!--          APPLIED SKILLS (left)  &  HIGHLIGHT ENGAGEMENTS (right)      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">Applied Skills & Specializations (14+)</h2>
 
 <div align="center">
 <table>
 <tr>
+
+<!-- ─── LEFT COLUMN: Applied Skills ─── -->
 <td valign="top" width="50%">
 
-<h4 align="center">Agentic AI & Copilot</h4>
+<h3 align="center">Applied Skills & Specializations (14+)</h3>
 
-<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/"><img src="https://img.shields.io/badge/AI--3026-Develop_AI_Agents-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="AI-3026"/></a><br/>
-<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/build-custom-copilots-with-microsoft-copilot-studio/"><img src="https://img.shields.io/badge/AI--3016-Build_Custom_Copilots-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="AI-3016"/></a><br/>
-<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/"><img src="https://img.shields.io/badge/AZ--2005-Semantic_Kernel-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="AZ-2005"/></a><br/>
-<a href="https://learn.microsoft.com/en-us/training/"><img src="https://img.shields.io/badge/AI--3018-Copilot_Fundamentals-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="AI-3018"/></a>
-
-<br/>
-
-<h4 align="center">Machine Learning</h4>
-
-<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/train-and-deploy-a-machine-learning-model/"><img src="https://img.shields.io/badge/DP--3007-Azure_ML-00B4D8?style=flat-square&logo=microsoft&logoColor=white" alt="DP-3007"/></a><br/>
-<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/build-machine-learning-solution-azure-databricks/"><img src="https://img.shields.io/badge/DP--3014-Databricks_ML-00B4D8?style=flat-square&logo=microsoft&logoColor=white" alt="DP-3014"/></a>
+<b>Agentic AI & Copilot</b><br/>
+<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/"><img src="https://img.shields.io/badge/AI--3026-Develop_AI_Agents-0078D4?style=flat-square&logo=microsoft&logoColor=white"/></a><br/>
+<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/build-custom-copilots-with-microsoft-copilot-studio/"><img src="https://img.shields.io/badge/AI--3016-Build_Custom_Copilots-0078D4?style=flat-square&logo=microsoft&logoColor=white"/></a><br/>
+<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/"><img src="https://img.shields.io/badge/AZ--2005-Semantic_Kernel-0078D4?style=flat-square&logo=microsoft&logoColor=white"/></a><br/>
+<a href="https://learn.microsoft.com/en-us/training/"><img src="https://img.shields.io/badge/AI--3018-Copilot_Fundamentals-0078D4?style=flat-square&logo=microsoft&logoColor=white"/></a>
+<br/><br/>
+<b>Azure AI & GenAI</b><br/>
+<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/"><img src="https://img.shields.io/badge/AI--050-Generative_AI_Solutions-5C2D91?style=flat-square&logo=microsoft&logoColor=white"/></a><br/>
+<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/create-intelligent-document-solution-azure-ai-document-intelligence/"><img src="https://img.shields.io/badge/AI--3002-Document_Intelligence-5C2D91?style=flat-square&logo=microsoft&logoColor=white"/></a><br/>
+<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/"><img src="https://img.shields.io/badge/AI--3003-Natural_Language_Processing-5C2D91?style=flat-square&logo=microsoft&logoColor=white"/></a><br/>
+<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/create-computer-vision-solution-azure-ai/"><img src="https://img.shields.io/badge/AI--3004-Computer_Vision-5C2D91?style=flat-square&logo=microsoft&logoColor=white"/></a>
+<br/><br/>
+<b>Machine Learning</b><br/>
+<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/train-and-deploy-a-machine-learning-model/"><img src="https://img.shields.io/badge/DP--3007-Azure_ML-00B4D8?style=flat-square&logo=microsoft&logoColor=white"/></a><br/>
+<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/build-machine-learning-solution-azure-databricks/"><img src="https://img.shields.io/badge/DP--3014-Databricks_ML-00B4D8?style=flat-square&logo=microsoft&logoColor=white"/></a>
+<br/><br/>
+<b>Power Platform</b><br/>
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-app-maker/"><img src="https://img.shields.io/badge/PL--100-App_Maker-107C10?style=flat-square&logo=microsoft&logoColor=white"/></a><br/>
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/"><img src="https://img.shields.io/badge/PL--200-Functional_Consultant-107C10?style=flat-square&logo=microsoft&logoColor=white"/></a><br/>
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-developer-associate/"><img src="https://img.shields.io/badge/PL--400-Developer-107C10?style=flat-square&logo=microsoft&logoColor=white"/></a>
 
 </td>
+
+<!-- ─── RIGHT COLUMN: Highlight Engagements ─── -->
 <td valign="top" width="50%">
 
-<h4 align="center">Azure AI & GenAI</h4>
+<h3 align="center">Highlight Engagements</h3>
 
-<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/"><img src="https://img.shields.io/badge/AI--050-Generative_AI_Solutions-5C2D91?style=flat-square&logo=microsoft&logoColor=white" alt="AI-050"/></a><br/>
-<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/create-intelligent-document-solution-azure-ai-document-intelligence/"><img src="https://img.shields.io/badge/AI--3002-Document_Intelligence-5C2D91?style=flat-square&logo=microsoft&logoColor=white" alt="AI-3002"/></a><br/>
-<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/"><img src="https://img.shields.io/badge/AI--3003-Natural_Language_Processing-5C2D91?style=flat-square&logo=microsoft&logoColor=white" alt="AI-3003"/></a><br/>
-<a href="https://learn.microsoft.com/en-us/credentials/applied-skills/create-computer-vision-solution-azure-ai/"><img src="https://img.shields.io/badge/AI--3004-Computer_Vision-5C2D91?style=flat-square&logo=microsoft&logoColor=white" alt="AI-3004"/></a>
-
-<br/>
-
-<h4 align="center">Power Platform</h4>
-
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-app-maker/"><img src="https://img.shields.io/badge/PL--100-App_Maker-107C10?style=flat-square&logo=microsoft&logoColor=white" alt="PL-100"/></a><br/>
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/"><img src="https://img.shields.io/badge/PL--200-Functional_Consultant-107C10?style=flat-square&logo=microsoft&logoColor=white" alt="PL-200"/></a><br/>
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-developer-associate/"><img src="https://img.shields.io/badge/PL--400-Developer-107C10?style=flat-square&logo=microsoft&logoColor=white" alt="PL-400"/></a>
+<img src="https://img.shields.io/badge/MCIT_Saudi_Arabia-0078D4?style=flat-square"/>&nbsp; AI Leadership Mastery — 10-day bootcamp<br/>
+<code>50+ C-suite executives · Saudi Vision 2030</code>
+<br/><br/>
+<img src="https://img.shields.io/badge/Bank_of_Tanzania-00B4D8?style=flat-square"/>&nbsp; AI Agents — 10-day program<br/>
+<code>Multi-agent orchestration · MCP integrations · Chatbot PoC</code>
+<br/><br/>
+<img src="https://img.shields.io/badge/Govt._of_Bahrain-5C2D91?style=flat-square"/>&nbsp; GenAI Enablement Workshops<br/>
+<code>Rapid PoCs for automation and insights</code>
+<br/><br/>
+<img src="https://img.shields.io/badge/King_Saud_University-E97627?style=flat-square"/>&nbsp; AI for Smart Cities (Professors)<br/>
+<code>Custom AI modules · Live Power BI dashboards</code>
+<br/><br/>
+<img src="https://img.shields.io/badge/Taibah_University-E97627?style=flat-square"/>&nbsp; AI for Smart Cities (Students)<br/>
+<code>AI-102 · PL-300 · Copilot · Smart city apps</code>
+<br/><br/>
+<img src="https://img.shields.io/badge/Tech_Mahindra-107C10?style=flat-square"/>&nbsp; RFP Automation PoC<br/>
+<code>60% reduction in response time · Azure OpenAI</code>
+<br/><br/>
+<img src="https://img.shields.io/badge/Saudi_Aramco-0078D4?style=flat-square"/>&nbsp; Enterprise AI Enablement<br/>
+<code>AI strategy workshops · Azure OpenAI integration</code>
+<br/><br/>
+<img src="https://img.shields.io/badge/Boeing-00B4D8?style=flat-square"/>&nbsp; Technical Training<br/>
+<code>Advanced Azure & DevOps training programs</code>
 
 </td>
+
 </tr>
 </table>
 </div>
@@ -383,8 +406,6 @@ Every certification below links to its official Microsoft Learn page — click t
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">What I Do</h2>
-
-<br/>
 
 <div align="center">
 <table>
@@ -440,8 +461,6 @@ AI adoption strategy & change management, Power Platform automation, M365 Copilo
 
 <h2 align="center">Key Clients</h2>
 
-<br/>
-
 <div align="center">
 <table>
 <tr>
@@ -484,91 +503,6 @@ HDFC Bank · ICICI Bank · Axis Bank · Tengizchevroil
 
 MCIT Saudi Arabia · Govt. of Bahrain · Bank of Tanzania<br/>
 King Saud University · Taibah University
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                       HIGHLIGHT ENGAGEMENTS                           -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">Highlight Engagements</h2>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/MCIT_Saudi_Arabia-0078D4?style=for-the-badge" alt="MCIT"/>
-
-AI Leadership Mastery — 10-day executive bootcamp<br/>
-<code>50+ C-suite executives · Saudi Vision 2030</code>
-
-</td>
-<td align="center" width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/Bank_of_Tanzania-00B4D8?style=for-the-badge" alt="Tanzania"/>
-
-AI Agents Implementation — 10-day program<br/>
-<code>Multi-agent orchestration · MCP integrations</code>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/Government_of_Bahrain-5C2D91?style=for-the-badge" alt="Bahrain"/>
-
-GenAI Enablement Workshops<br/>
-<code>Rapid PoCs for automation and insights</code>
-
-</td>
-<td align="center" width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/King_Saud_University-E97627?style=for-the-badge" alt="KSU"/>
-
-Microsoft AI for Smart Cities (Professors)<br/>
-<code>Custom AI modules · Live Power BI dashboards</code>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/Taibah_University-E97627?style=for-the-badge" alt="Taibah"/>
-
-Microsoft AI for Smart Cities (Students)<br/>
-<code>AI-102 · PL-300 · Copilot · Smart city apps</code>
-
-</td>
-<td align="center" width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/Tech_Mahindra-107C10?style=for-the-badge" alt="Tech Mahindra"/>
-
-RFP Automation PoC<br/>
-<code>60% reduction in response time · Azure OpenAI</code>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/Saudi_Aramco-0078D4?style=for-the-badge" alt="Aramco"/>
-
-Enterprise AI Enablement<br/>
-<code>AI strategy workshops · Azure OpenAI integration</code>
-
-</td>
-<td align="center" width="50%" valign="top">
-
-<img src="https://img.shields.io/badge/Boeing-00B4D8?style=for-the-badge" alt="Boeing"/>
-
-Technical Training<br/>
-<code>Advanced Azure & DevOps training programs</code>
 
 </td>
 </tr>
