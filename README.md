@@ -115,8 +115,8 @@ project1-azure-doc-intelligence-banking/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/azure-doc-intelligence-banking.git
-cd azure-doc-intelligence-banking
+git clone https://github.com/lostspace003/azure-doc-intelligence-banking-pipeline.git
+cd azure-doc-intelligence-banking-pipeline
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
@@ -256,6 +256,6 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## 👤 Author
 
-**Jalal Ahmed Khan** — Senior AI Consultant | Microsoft Certified Trainer
-- LinkedIn: [jalal-ahmed-khan](https://linkedin.com/in/yourprofile)
-- GitHub: [yourusername](https://github.com/yourusername)
+**Jalal Ahmed Khan** — Senior AI Consultant | Microsoft Certified Trainer | MCT
+- GitHub: [@lostspace003](https://github.com/lostspace003)
+- Email: lostspace003@outlook.com
