@@ -334,62 +334,24 @@ Every certification below links to its official Microsoft Learn page — click t
 
 <h2 align="center">Applied Skills & Specializations (14+)</h2>
 
-<br/>
-
 <div align="center">
-<table>
-<tr>
-<td align="center" valign="top" width="50%">
 
-<img src="https://img.shields.io/badge/Agentic_AI_&_Copilot-0078D4?style=for-the-badge&logoColor=white" alt="Agentic AI"/>
+| | Specialization | Category |
+|:--|:--|:--|
+| ![](https://img.shields.io/badge/AI--3026-0078D4?style=flat-square) | [**Develop AI Agents**](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/) | Agentic AI |
+| ![](https://img.shields.io/badge/AI--3016-0078D4?style=flat-square) | [**Build Custom Copilots**](https://learn.microsoft.com/en-us/credentials/applied-skills/build-custom-copilots-with-microsoft-copilot-studio/) | Agentic AI |
+| ![](https://img.shields.io/badge/AZ--2005-0078D4?style=flat-square) | [**Develop with Semantic Kernel**](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/) | Agentic AI |
+| ![](https://img.shields.io/badge/AI--3018-0078D4?style=flat-square) | [**Copilot Fundamentals**](https://learn.microsoft.com/en-us/training/) | Agentic AI |
+| ![](https://img.shields.io/badge/AI--050-5C2D91?style=flat-square) | [**Generative AI Solutions with Azure OpenAI**](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/) | Azure AI & GenAI |
+| ![](https://img.shields.io/badge/AI--3002-5C2D91?style=flat-square) | [**Azure AI Document Intelligence**](https://learn.microsoft.com/en-us/credentials/applied-skills/create-intelligent-document-solution-azure-ai-document-intelligence/) | Azure AI & GenAI |
+| ![](https://img.shields.io/badge/AI--3003-5C2D91?style=flat-square) | [**Natural Language Processing**](https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/) | Azure AI & GenAI |
+| ![](https://img.shields.io/badge/AI--3004-5C2D91?style=flat-square) | [**Computer Vision Solutions**](https://learn.microsoft.com/en-us/credentials/applied-skills/create-computer-vision-solution-azure-ai/) | Azure AI & GenAI |
+| ![](https://img.shields.io/badge/DP--3007-00B4D8?style=flat-square) | [**Train & Deploy ML Models on Azure**](https://learn.microsoft.com/en-us/credentials/applied-skills/train-and-deploy-a-machine-learning-model/) | Machine Learning |
+| ![](https://img.shields.io/badge/DP--3014-00B4D8?style=flat-square) | [**ML Solutions with Azure Databricks**](https://learn.microsoft.com/en-us/credentials/applied-skills/build-machine-learning-solution-azure-databricks/) | Machine Learning |
+| ![](https://img.shields.io/badge/PL--100-107C10?style=flat-square) | [**Power Platform App Maker**](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-app-maker/) | Power Platform |
+| ![](https://img.shields.io/badge/PL--200-107C10?style=flat-square) | [**Power Platform Functional Consultant**](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/) | Power Platform |
+| ![](https://img.shields.io/badge/PL--400-107C10?style=flat-square) | [**Power Platform Developer**](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-developer-associate/) | Power Platform |
 
-<br/><br/>
-
-[AI-3026 — Develop AI Agents](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/)<br/>
-[AI-3016 — Custom Copilots](https://learn.microsoft.com/en-us/credentials/applied-skills/build-custom-copilots-with-microsoft-copilot-studio/)<br/>
-[AZ-2005 — Semantic Kernel](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/)<br/>
-[AI-3018 — Copilot Fundamentals](https://learn.microsoft.com/en-us/training/)
-
-</td>
-<td align="center" valign="top" width="50%">
-
-<img src="https://img.shields.io/badge/Azure_AI_&_GenAI-5C2D91?style=for-the-badge&logoColor=white" alt="Azure AI"/>
-
-<br/><br/>
-
-[AI-050 — Generative AI Solutions](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/)<br/>
-[AI-3002 — Document Intelligence](https://learn.microsoft.com/en-us/credentials/applied-skills/create-intelligent-document-solution-azure-ai-document-intelligence/)<br/>
-[AI-3003 — NLP](https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/)<br/>
-[AI-3004 — AI Vision](https://learn.microsoft.com/en-us/credentials/applied-skills/create-computer-vision-solution-azure-ai/)
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top" width="50%">
-
-<img src="https://img.shields.io/badge/Machine_Learning-00B4D8?style=for-the-badge&logoColor=white" alt="ML"/>
-
-<br/><br/>
-
-[DP-3007 — Azure ML](https://learn.microsoft.com/en-us/credentials/applied-skills/train-and-deploy-a-machine-learning-model/)<br/>
-[DP-3014 — Databricks ML](https://learn.microsoft.com/en-us/credentials/applied-skills/build-machine-learning-solution-azure-databricks/)<br/>
-Data Science with Python
-
-</td>
-<td align="center" valign="top" width="50%">
-
-<img src="https://img.shields.io/badge/Power_Platform-107C10?style=for-the-badge&logoColor=white" alt="Power Platform"/>
-
-<br/><br/>
-
-[PL-100 — App Maker](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-app-maker/)<br/>
-[PL-200 — Functional Consultant](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/)<br/>
-[PL-400 — Developer](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-developer-associate/)<br/>
-Copilot Studio Hands-on
-
-</td>
-</tr>
-</table>
 </div>
 
 ---
@@ -514,56 +476,19 @@ King Saud University · Taibah University
 
 <h2 align="center">Highlight Engagements</h2>
 
-<br/>
-
 <div align="center">
-<table>
-<tr>
-<th align="left" width="22%">Client</th>
-<th align="left" width="40%">Program</th>
-<th align="left" width="38%">Impact</th>
-</tr>
-<tr>
-<td><b>MCIT Saudi Arabia</b></td>
-<td>AI Leadership Mastery — 10-day executive bootcamp</td>
-<td>50+ C-suite executives, aligned with Saudi Vision 2030</td>
-</tr>
-<tr>
-<td><b>Bank of Tanzania</b></td>
-<td>AI Agents Implementation — 10-day program</td>
-<td>Multi-agent orchestration, MCP integrations, production chatbot PoC</td>
-</tr>
-<tr>
-<td><b>Government of Bahrain</b></td>
-<td>GenAI Enablement Workshops</td>
-<td>Rapid PoCs for automation and insights</td>
-</tr>
-<tr>
-<td><b>King Saud University</b></td>
-<td>Microsoft AI for Smart Cities (Professors)</td>
-<td>Custom AI modules with live Power BI dashboards</td>
-</tr>
-<tr>
-<td><b>Taibah University</b></td>
-<td>Microsoft AI for Smart Cities (Students)</td>
-<td>AI-102, PL-300, Copilot, and smart city applications</td>
-</tr>
-<tr>
-<td><b>Tech Mahindra</b></td>
-<td>RFP Automation PoC</td>
-<td>60% reduction in response time using Azure OpenAI</td>
-</tr>
-<tr>
-<td><b>Saudi Aramco</b></td>
-<td>Enterprise AI Enablement</td>
-<td>AI strategy workshops & Azure OpenAI integration</td>
-</tr>
-<tr>
-<td><b>Boeing</b></td>
-<td>Technical Training</td>
-<td>Advanced Azure & DevOps training programs</td>
-</tr>
-</table>
+
+| Client | Program | Impact |
+|:-------|:--------|:-------|
+| **MCIT Saudi Arabia** | AI Leadership Mastery — 10-day executive bootcamp | 50+ C-suite executives, aligned with Saudi Vision 2030 |
+| **Bank of Tanzania** | AI Agents Implementation — 10-day program | Multi-agent orchestration, MCP integrations, production chatbot PoC |
+| **Government of Bahrain** | GenAI Enablement Workshops | Rapid PoCs for automation and insights |
+| **King Saud University** | Microsoft AI for Smart Cities (Professors) | Custom AI modules with live Power BI dashboards |
+| **Taibah University** | Microsoft AI for Smart Cities (Students) | AI-102, PL-300, Copilot, and smart city applications |
+| **Tech Mahindra** | RFP Automation PoC | 60% reduction in response time using Azure OpenAI |
+| **Saudi Aramco** | Enterprise AI Enablement | AI strategy workshops & Azure OpenAI integration |
+| **Boeing** | Technical Training | Advanced Azure & DevOps training programs |
+
 </div>
 
 ---
@@ -574,19 +499,24 @@ King Saud University · Taibah University
 
 <h2 align="center">GitHub Analytics</h2>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lostspace003&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="170" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostspace003&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=lostspace003&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak" width="520"/>
-</p>
+<a href="https://github.com/lostspace003">
+<img src="https://github-readme-stats.vercel.app/api?username=lostspace003&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="170"/>
+</a>
+<a href="https://github.com/lostspace003">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostspace003&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170"/>
+</a>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lostspace003&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&area_color=58a6ff" width="95%" alt="Activity Graph"/>
-</p>
+</div>
+
+<div align="center">
+
+<a href="https://github.com/lostspace003">
+<img src="https://streak-stats.demolab.com?user=lostspace003&theme=github-dark-blue&hide_border=true&background=0D1117" width="520"/>
+</a>
+
+</div>
 
 ---
 
